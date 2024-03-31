@@ -1,7 +1,7 @@
 
 # Advanced Object-Oriented Programming in Dart Challenge
 
-- plp drt assignment
+- plp dart assignment
 
 
 # This challenge is designed to assess a learner's understanding of advanced object-oriented programming in Dart.
