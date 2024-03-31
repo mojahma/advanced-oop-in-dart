@@ -18,4 +18,4 @@
    * Create a third class that creates a student and teacher object, and calls the methods to print out the information.
 
 
-## Once the challenge is completed, the solution should be pushed to GitHub and the link should be submitted (to https://forms.gle/)wve1Lbk1ab8igLgQ9
+## Once the challenge is completed, the solution should be pushed to GitHub and the link should be submitted to (https://forms.gle/wve1Lbk1ab8igLgQ9)
